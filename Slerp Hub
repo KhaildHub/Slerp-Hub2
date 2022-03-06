@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KhaildHub/Slerp-Hub/main/Slerp%20Hub'))()
